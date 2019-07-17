@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "288342281567",
+    "firebase_url": "https://fir-crud-464c4.firebaseio.com",
+    "project_id": "fir-crud-464c4",
+    "storage_bucket": "fir-crud-464c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288342281567:android:284a641e6f2a8698",
+        "android_client_info": {
+          "package_name": "com.waaao.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288342281567-8o01m28me3uplrk9opkhvd4b2je9v7cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm4qlKWWiRzgc5iH_G5NSARazNxXtLrnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288342281567-8o01m28me3uplrk9opkhvd4b2je9v7cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288342281567:android:e81eb71ad4385eb5",
+        "android_client_info": {
+          "package_name": "com.waowao.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288342281567-8o01m28me3uplrk9opkhvd4b2je9v7cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm4qlKWWiRzgc5iH_G5NSARazNxXtLrnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288342281567-8o01m28me3uplrk9opkhvd4b2je9v7cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

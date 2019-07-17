@@ -1,9 +1,9 @@
 import React from 'react';
-import AppNavigator from './app/routes/navigation';
+import { View, Text } from 'react-native'
 
 import firebase from 'react-native-firebase';
 
-export default class App extends React.Component {
+export default class Home extends React.Component {
   constructor() {
     super();
     this.state = {};
@@ -19,9 +19,9 @@ export default class App extends React.Component {
 
   render() {
     return (
-      <React.Fragment>
-        <AppNavigator />
-      </React.Fragment>
+      <View>
+        <Text>Home Page</Text>
+      </View>
     );
   }
 }
